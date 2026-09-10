@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" fill="none" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9">
+        <animate attributeName="stop-color" values="#0ea5e9;#2563eb;#6d28d9;#0ea5e9" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#6d28d9">
+        <animate attributeName="stop-color" values="#6d28d9;#0ea5e9;#2563eb;#6d28d9" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fg)" d="M0 40 C 200 10, 380 70, 600 42 S 880 15, 1000 45 V90 H0 Z">
+    <animate attributeName="d"
+      values="M0 40 C 200 10, 380 70, 600 42 S 880 15, 1000 45 V90 H0 Z;
+              M0 48 C 220 72, 400 18, 620 46 S 900 72, 1000 34 V90 H0 Z;
+              M0 40 C 200 10, 380 70, 600 42 S 880 15, 1000 45 V90 H0 Z"
+      dur="9s" repeatCount="indefinite" />
+  </path>
+</svg>
