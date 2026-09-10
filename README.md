@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2563eb,100:0ea5e9&height=210&section=header&text=Ahmad%20Rio&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Fullstack%20%26%20AI%20Developer%20%C2%B7%20Malang%2C%20Indonesia&descSize=18&descAlignY=60" alt="Ahmad Rio" width="100%" />
+<img src="./assets/banner.svg" alt="Ahmad Rio — Fullstack & AI Developer, Malang, Indonesia" width="100%" />
 
 <a href="https://github.com/ahmadrio">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%26+AI+Developer;10%2B+tahun+bikin+aplikasi+web+%26+sistem+internal;Dari+API+sampai+antarmuka;Rapi+di+kode%2C+jelas+di+layar" alt="Typing SVG" />
@@ -34,7 +34,7 @@ untuk klien pemerintah dan enterprise — dari API sampai antarmuka.
 - 🏛️ **10+ tahun** menggarap aplikasi web & sistem internal untuk instansi pemerintah dan perusahaan besar — portal informasi publik, aplikasi reservasi, tanda tangan elektronik, hingga super app
 - ⚙️ Fokus pada **backend yang stabil dan mudah dirawat**, dengan antarmuka yang tetap nyaman dipakai
 - 🤖 Belakangan banyak membangun **fitur berbasis AI & LLM** ke dalam produk nyata
-- 🌐 Portofolio lengkap: **`ISI_URL_PORTOFOLIO`**
+- 🌐 Portofolio lengkap: **`https://ahmadrio-dot.vercel.app`**
 
 ```text
 15+ proyek selesai   ·   10+ klien pemerintah & enterprise   ·   10+ tahun pengalaman
@@ -94,7 +94,7 @@ untuk klien pemerintah dan enterprise — dari API sampai antarmuka.
 | **Mind ID — Pensiun Sukarela** | Frontend · Backend | Pendaftaran program pensiun sukarela karyawan, lengkap dengan simulasi manfaat dan pemantauan saldo |
 | **Kost Malang Suhat** | Frontend · Backend · AI | Proyek pribadi: cari kost di sekitar Suhat, pencarian bisa pakai kalimat sehari-hari lewat bantuan AI |
 
-<sub>Lihat semua proyek → <b><code>ISI_URL_PORTOFOLIO</code></b></sub>
+<sub>Lihat semua proyek → <b><code>https://ahmadrio-dot.vercel.app</code></b></sub>
 
 ---
 
@@ -119,6 +119,6 @@ Saya siap kapan pun Anda siap.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:6d28d9&height=120&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
