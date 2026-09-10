@@ -20,7 +20,7 @@ untuk klien pemerintah dan enterprise — dari API sampai antarmuka.
 <a href="https://wa.link/2vk7se">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="https://ISI-URL-PORTOFOLIO-ANDA">
+<a href="https://ahmadrio-dot.vercel.app">
   <img src="https://img.shields.io/badge/Portofolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portofolio" />
 </a>
 
